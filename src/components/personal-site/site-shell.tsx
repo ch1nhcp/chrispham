@@ -154,7 +154,6 @@ export const SiteShell = ({ children, activePath }: { children: React.ReactNode;
                             <a href='https://linkedin.com' target='_blank' rel='noopener noreferrer'>
                                 linkedin
                             </a>
-                            <Link href='/blog'>rss</Link>
                         </div>
                     </footer>
                 </div>
